@@ -1,18 +1,3 @@
-<!--
-**UnstopableSafar08/UnstopableSafar08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
 
 ```
@@ -41,7 +26,7 @@ I'm a DevOps Engineer with a strong focus on **infrastructure automation**, **pr
 
 I care deeply about clean automation, minimal toil, and keeping production stable — not just getting things to work, but making them *stay* working.
 
-- Building and maintaining production Kubernetes environments (K8S, K3s, EKS)
+- Building and maintaining production Kubernetes environments (K3s, EKS)
 - Designing observability pipelines with Grafana, Prometheus, Loki, and the ELK stack
 - Automating deployments and configuration management with Ansible and Bash
 - Managing high-throughput messaging systems with Apache Kafka (KRaft mode)
@@ -72,6 +57,7 @@ I care deeply about clean automation, minimal toil, and keeping production stabl
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black)
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
+![HAProxy](https://img.shields.io/badge/HAProxy-%23106DA9.svg?style=flat-square&logo=haproxy&logoColor=white)
 
 **CI/CD & Version Control**
 
@@ -110,4 +96,3 @@ I care deeply about clean automation, minimal toil, and keeping production stabl
 </div>
 
 ---
-
