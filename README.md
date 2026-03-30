@@ -45,6 +45,7 @@ I care deeply about clean automation, minimal toil, and keeping production stabl
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
 
+
 **Infrastructure & Orchestration**
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
@@ -66,6 +67,8 @@ I care deeply about clean automation, minimal toil, and keeping production stabl
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat-square&logo=sonarqube&logoColor=4E9BCD)
+![Trivy](https://img.shields.io/badge/Trivy-%23000000.svg?style=flat-square&logo=Trivy&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-%23000000.svg?style=flat-square&logo=OWASP&logoColor=white)
 
 **Observability**
 
